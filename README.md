@@ -1,4 +1,6 @@
-# 🏪 Tienda de Don Fran — Documentación Completa
+# 🏪 Tienda de Don Fran v1 — Documentación Completa
+
+> ⚠️ **Versión legacy.** Este repositorio contiene la primera versión del POS. Para la versión actual, ver [don-fran-pos](https://github.com/blastseeker31/don-fran-pos).
 
 ## 📋 Índice
 1. [Visión General](#visión-general)
