@@ -1,0 +1,14 @@
+{
+  "name": "lolicup-pos",
+  "version": "1.0.0",
+  "description": "POS ligero para LoliCup - Sr. Alejandro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "11.6.0",
+    "express": "4.22.2",
+    "pdfkit": "^0.18.0"
+  }
+}

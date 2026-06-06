@@ -1,0 +1,13 @@
+services:
+  don-fran-pos-v1:
+    container_name: tiendita-pos-v1
+    build: .
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/data
+    networks:
+      - proyectitos
+
+networks:
+  proyectitos:
+    external: true
